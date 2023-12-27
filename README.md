@@ -1,0 +1,2 @@
+The data analysis carried out on the data survey using PowerBI reveals that a total of 630 people took part in the survey, with an average age of 30 years. It provides useful insight on work-life balance, salary satisfaction,relevant programming languages for tech jobs, and so on. Here is what the final dashboard looks like.
+![TECH DATA SURVEY_page-0001](https://github.com/Jobbson/Tech-data-survey/assets/69438695/3ac0d73b-c0f2-4586-8d7c-9678de9dba86)
